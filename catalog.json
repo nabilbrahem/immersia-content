@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "enterprises": [
+    {
+      "id": "immersia",
+      "name": "immersia",
+      "catalog": "immersia/catalog.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "environments": [
+    {
+      "id": "test-level",
+      "name": "Test Level",
+      "version": "1.0.0",
+      "manifest": "environments/test-level/manifest.json"
+    }
+  ],
+  "objects": [
+    {
+      "id": "speaker",
+      "name": "Synode Speaker",
+      "version": "1.0.2",
+      "manifest": "objects/speaker/manifest.json"
+    }
+  ]
+}

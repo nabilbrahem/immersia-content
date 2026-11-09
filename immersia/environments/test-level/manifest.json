@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "kind": "environment",
+  "id": "test-level",
+  "version": "1.0.0",
+  "name": "Test Level",
+  "files": [
+    {
+      "path": "test-level.glb",
+      "role": "model",
+      "size": 107492,
+      "sha256": "998d82c2fac6e721329ad4ba500bbfa4428329b5a74cdf60b301e0f70b18efeb"
+    }
+  ]
+}

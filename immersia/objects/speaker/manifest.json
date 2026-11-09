@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "kind": "object",
+  "id": "speaker",
+  "version": "1.0.2",
+  "name": "Synode Speaker",
+  "files": [
+    {
+      "path": "xrscene_optimized.glb",
+      "role": "model",
+      "size": 14760464,
+      "sha256": "db98e18094ac8ca97783b60bfa7f67c0537be5b590d0d1728d1d2c686c634f4d"
+    },
+    {
+      "path": "synode.json",
+      "role": "data",
+      "size": 5081358,
+      "sha256": "fd96758bfa4fbda6f1f9c239e9f4f540ef893dc1b32548e4f9de02561b52514f"
+    }
+  ]
+}
