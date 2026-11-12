@@ -3,14 +3,43 @@
   "enterprise": "immersia",
   "kind": "environment",
   "id": "test-level",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Test Level",
   "files": [
     {
       "path": "test-level.glb",
       "role": "model",
-      "size": 107492,
-      "sha256": "998d82c2fac6e721329ad4ba500bbfa4428329b5a74cdf60b301e0f70b18efeb"
+      "size": 107984,
+      "sha256": "f506d501475ceb66a5bc42b08557a76669a440ba49ce185a30ac8622cc344f1f"
+    },
+    {
+      "path": "ambient.ogg",
+      "role": "data",
+      "size": 687734,
+      "sha256": "3b6034b558e840477c0f91fce06a62582483d0372be4a156464ff6638362b747"
+    }
+  ],
+  "interactions": [
+    {
+      "type": "door",
+      "node": "Interaction_Door"
+    },
+    {
+      "type": "ladder",
+      "node": "Interaction_Ladder"
+    },
+    {
+      "type": "radio",
+      "node": "Interaction_Radio",
+      "file": "ambient.ogg"
+    },
+    {
+      "type": "drawing",
+      "node": "Interaction_Drawing"
+    },
+    {
+      "type": "cubes",
+      "node": "Interaction_Cubes"
     }
   ]
 }
