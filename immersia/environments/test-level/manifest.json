@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "environment",
   "id": "test-level",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "name": "Test Level",
   "files": [
     {
       "path": "test-level.glb",
       "role": "model",
-      "size": 107984,
-      "sha256": "f506d501475ceb66a5bc42b08557a76669a440ba49ce185a30ac8622cc344f1f"
+      "size": 108144,
+      "sha256": "09e3aec913a1b8d7ab9c593d55ae39a4ed06f18e099e25b3c0518c880a021426"
     },
     {
       "path": "ambient.ogg",
@@ -40,6 +40,14 @@
     {
       "type": "cubes",
       "node": "Interaction_Cubes"
+    },
+    {
+      "type": "mirror",
+      "node": "Interaction_Mirror"
+    },
+    {
+      "type": "companycode",
+      "node": "Interaction_CompanyCode"
     }
   ]
 }
