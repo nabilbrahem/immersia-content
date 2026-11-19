@@ -1,0 +1,1133 @@
+{
+ "source": "visualizer_example.json",
+ "groups": [
+  "SynodeGroup_0",
+  "SynodeGroup_1",
+  "SynodeGroup_2",
+  "SynodeGroup_3",
+  "SynodeGroup_4",
+  "SynodeGroup_5",
+  "SynodeGroup_6",
+  "SynodeGroup_7",
+  "SynodeGroup_8",
+  "SynodeGroup_9",
+  "SynodeGroup_10",
+  "SynodeGroup_11",
+  "SynodeGroup_12",
+  "SynodeGroup_13",
+  "SynodeGroup_14",
+  "SynodeGroup_15",
+  "SynodeGroup_16",
+  "SynodeGroup_17",
+  "SynodeGroup_18",
+  "SynodeGroup_19",
+  "SynodeGroup_20",
+  "SynodeGroup_21",
+  "SynodeGroup_22",
+  "SynodeGroup_23"
+ ],
+ "mainStage": "b055dfb7-f3c2-4bb0-9bcb-9f3122a08ace",
+ "stages": [
+  {
+   "uuid": "b055dfb7-f3c2-4bb0-9bcb-9f3122a08ace",
+   "name": "Full Assembly",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.1093,
+    0.0001,
+    0.0,
+    0.0617,
+    0.0001,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "uuid": "1af0378c-1ea3-42ef-b3d6-afa06e270cc1",
+   "name": "Woofer Explode",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.4007,
+    0.0,
+    0.0,
+    0.1944,
+    0.0,
+    0.0,
+    0.1937,
+    0.0,
+    0.0,
+    -0.0659,
+    0.0,
+    0.0,
+    -0.0659,
+    0.0,
+    0.0,
+    -0.0659,
+    0.0,
+    0.0,
+    -0.2169,
+    0.0,
+    0.0,
+    0.3369,
+    0.0,
+    0.0,
+    0.4462,
+    0.0001,
+    0.0,
+    0.3986,
+    0.0001,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visible": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "46de44f6-e09d-4f29-999a-2aef3c1c1a12",
+   "name": "Cabinet",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.1592,
+    0.0,
+    0.0,
+    -0.2047,
+    0.0,
+    0.0,
+    0.0,
+    0.3248,
+    -0.3117,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.3426,
+    0.3679,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visible": [
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "e685f9d0-a125-4adb-8fe3-a9c00be1d65b",
+   "name": "Isolation Foot",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.0387,
+    0.0,
+    0.0,
+    0.1162,
+    0.0,
+    0.0,
+    0.0476,
+    0.0,
+    0.0,
+    0.0767,
+    0.0,
+    0.0,
+    0.0069,
+    0.0
+   ],
+   "visible": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "uuid": "5e522852-823a-4f84-9ccd-f86007b7f4a8",
+   "name": "Voicle Coil",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.4007,
+    0.0,
+    0.0,
+    0.1944,
+    0.0,
+    0.0,
+    0.1937,
+    0.0,
+    0.0,
+    -0.0659,
+    0.0,
+    0.0,
+    0.0278,
+    0.0,
+    0.0,
+    -0.1617,
+    0.0,
+    0.0,
+    -0.2169,
+    0.0,
+    0.0,
+    0.3369,
+    0.0,
+    0.0,
+    0.3369,
+    0.0,
+    0.0,
+    0.3369,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visible": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "dad658de-7985-4579-9342-c360a63c3d8d",
+   "name": "AMP Panel",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visible": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false
+   ]
+  }
+ ],
+ "hotspots": [
+  {
+   "id": "b8abf33f-3988-483b-a590-51b24003e133",
+   "label": "Hotspot 1",
+   "group": 8,
+   "position": [
+    -0.16035,
+    0.00998,
+    -0.00879
+   ],
+   "normal": [
+    -0.9881,
+    0.0458,
+    0.1471
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "1af0378c-1ea3-42ef-b3d6-afa06e270cc1"
+   }
+  },
+  {
+   "id": "e0695301-44d2-4928-be9c-d45206ddc668",
+   "label": "Surround Assembly",
+   "group": 8,
+   "position": [
+    -0.15968,
+    0.01237,
+    0.00236
+   ],
+   "normal": [
+    -0.9992,
+    0.0056,
+    -0.0405
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "d890f600-ab46-46f2-bdd2-6434e0307d9b"
+   }
+  },
+  {
+   "id": "8aba4420-1fdf-40c6-9b1e-320665385bde",
+   "label": "13\" Basket",
+   "group": 14,
+   "position": [
+    -0.23356,
+    0.18312,
+    0.00012
+   ],
+   "normal": [
+    -1.0,
+    0.0,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "641d6e7e-6e3b-4f3d-9ce8-db7237331b50"
+   }
+  },
+  {
+   "id": "309912a4-0f32-43d5-9c0a-68cea1c5c83f",
+   "label": "Voice Coil Assembly",
+   "group": 11,
+   "position": [
+    -0.0394,
+    0.02313,
+    0.02491
+   ],
+   "normal": [
+    0.0,
+    0.3864,
+    0.9223
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "5e522852-823a-4f84-9ccd-f86007b7f4a8"
+   }
+  },
+  {
+   "id": "f2895bf5-574f-4ab7-9679-e092a2384744",
+   "label": "Magnet Structure",
+   "group": 9,
+   "position": [
+    -0.09753,
+    0.09946,
+    0.00482
+   ],
+   "normal": [
+    -1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "2098ddce-bc10-4051-a777-075fe89222d4"
+   }
+  },
+  {
+   "id": "e4f2654c-cc61-494f-a1d4-fb2e6fd2495d",
+   "label": "Rear Basket Assembly",
+   "group": 15,
+   "position": [
+    -0.00133,
+    0.08764,
+    -0.00019
+   ],
+   "normal": [
+    -1.0,
+    0.0,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "f77e5276-6660-45be-9690-3c712b328ea3"
+   }
+  },
+  {
+   "id": "fef591d8-5bf2-49d3-8c08-41ea85f9e046",
+   "label": "XR13 Woofer",
+   "group": 8,
+   "position": [
+    -0.15969,
+    0.01435,
+    -0.00193
+   ],
+   "normal": [
+    -0.999,
+    -0.0284,
+    0.0333
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "1af0378c-1ea3-42ef-b3d6-afa06e270cc1"
+   }
+  },
+  {
+   "id": "8fe134e8-0abc-4004-8f87-00e29c225b65",
+   "label": "XR13 Cabinet",
+   "group": 3,
+   "position": [
+    -0.01472,
+    0.01475,
+    0.21907
+   ],
+   "normal": [
+    -0.0,
+    0.0,
+    1.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "46de44f6-e09d-4f29-999a-2aef3c1c1a12"
+   }
+  },
+  {
+   "id": "89de73cd-aad1-4811-bd92-b0ca4079c428",
+   "label": "Isolation Feet",
+   "group": 21,
+   "position": [
+    -0.2322,
+    -0.23633,
+    0.18837
+   ],
+   "normal": [
+    -0.999,
+    -0.044,
+    -0.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "e685f9d0-a125-4adb-8fe3-a9c00be1d65b"
+   }
+  },
+  {
+   "id": "91fd625f-5ae7-476c-b37e-97061110e824",
+   "label": "Foot Housing",
+   "group": 21,
+   "position": [
+    -0.22707,
+    -0.23269,
+    0.20877
+   ],
+   "normal": [
+    -0.1304,
+    -0.044,
+    0.9905
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "5374517c-d1fa-4100-aeb6-1f199a830b8e"
+   }
+  },
+  {
+   "id": "d425b2b9-169b-4cb3-b1f7-2df6ba452de2",
+   "label": "Main Foot Isolation",
+   "group": 23,
+   "position": [
+    -0.22039,
+    -0.24218,
+    0.19648
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "b0571996-1f46-4689-b407-97b8c9c2c878"
+   }
+  },
+  {
+   "id": "84b901fc-8d90-4509-9e9f-072ffabb0df9",
+   "label": "Rubber Insert",
+   "group": 19,
+   "position": [
+    -0.21444,
+    -0.24718,
+    0.18908
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "dcde4302-cf7d-429c-9909-03ee9dfd5ab3"
+   }
+  },
+  {
+   "id": "8254090e-7cc0-4b60-a03b-0bed5c9cbaa0",
+   "label": "Top Isolation Layer",
+   "group": 22,
+   "position": [
+    -0.20291,
+    -0.22117,
+    0.18258
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "48546814-bb1a-4ff8-af9e-ccdd39616af7"
+   }
+  },
+  {
+   "id": "824c3dc3-cf61-48be-9185-8b8d4a3d654d",
+   "label": "Fastener Insert",
+   "group": 20,
+   "position": [
+    -0.15194,
+    -0.22474,
+    0.16087
+   ],
+   "normal": [
+    -0.5268,
+    0.0,
+    0.85
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "8b5beac5-90c2-4112-bcab-49ed5f1be44c"
+   }
+  },
+  {
+   "id": "3ba8a890-ecbb-4f23-b90f-85608362a659",
+   "label": "Spider",
+   "group": 13,
+   "position": [
+    -0.15025,
+    0.07509,
+    0.01531
+   ],
+   "normal": [
+    -0.993,
+    0.1102,
+    0.0433
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "20ee5e28-cea8-446a-8ee7-0b947bcb989b"
+   }
+  },
+  {
+   "id": "db346696-fb3f-43d3-9350-7a49f83e1064",
+   "label": "Former",
+   "group": 11,
+   "position": [
+    -0.06985,
+    0.03701,
+    0.01182
+   ],
+   "normal": [
+    0.0,
+    0.8993,
+    0.4374
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "590895a6-0c87-4c7c-b36c-cc24adb2e916"
+   }
+  },
+  {
+   "id": "889ca587-85d2-412d-9902-6fe5b2de4005",
+   "label": "Braces",
+   "group": 7,
+   "position": [
+    -0.09618,
+    0.186,
+    0.0179
+   ],
+   "normal": [
+    -0.988,
+    0.1546,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "2a79f7e6-9dce-4d1f-b6a0-0080672675e1"
+   }
+  },
+  {
+   "id": "b09a3d62-2533-48db-8607-393c5139af24",
+   "label": "Side Panel",
+   "group": 3,
+   "position": [
+    0.01277,
+    0.0073,
+    0.21907
+   ],
+   "normal": [
+    -0.0,
+    0.0,
+    1.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "1b9506bd-eb02-4d84-b2b4-63bcfbb578fe"
+   }
+  },
+  {
+   "id": "edd07b13-9d89-4a6f-afdc-dba33f5504d3",
+   "label": "Front Panel",
+   "group": 4,
+   "position": [
+    -0.2326,
+    -0.20045,
+    -0.02649
+   ],
+   "normal": [
+    -1.0,
+    0.0,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "cac5520d-d4dc-49d5-ba87-dc2bf66b639b"
+   }
+  },
+  {
+   "id": "f508f923-2eef-440b-8d3c-0abf75f941de",
+   "label": "Rear Cabinet",
+   "group": 6,
+   "position": [
+    0.25,
+    -0.20359,
+    -0.01608
+   ],
+   "normal": [
+    1.0,
+    -0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "2948ed8c-b083-41ad-ba0e-8955937f7c8a"
+   }
+  },
+  {
+   "id": "a46dc6fc-e8b8-4604-bcb0-cf876ef59e41",
+   "label": "XR13 AMP",
+   "group": 18,
+   "position": [
+    0.2391,
+    -0.01737,
+    -0.01129
+   ],
+   "normal": [
+    1.0,
+    -0.0,
+    0.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "dad658de-7985-4579-9342-c360a63c3d8d"
+   }
+  },
+  {
+   "id": "a38b245b-43f2-4240-b896-f774ac18111f",
+   "label": "Amp Panel",
+   "group": 18,
+   "position": [
+    0.2391,
+    -0.0239,
+    -0.00197
+   ],
+   "normal": [
+    1.0,
+    -0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "192cd589-7dde-48f9-b970-0c566f701f9e"
+   }
+  },
+  {
+   "id": "d23f68ab-3911-4e03-88d3-a08d50756e87",
+   "label": "Volume Control",
+   "group": 18,
+   "position": [
+    0.20798,
+    0.21891,
+    -0.0031
+   ],
+   "normal": [
+    0.0523,
+    0.9986,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "9474471a-74fa-41b5-8798-3ee2c86356e8"
+   }
+  },
+  {
+   "id": "b6f3e3b2-9281-4776-ab82-a3609f2170ee",
+   "label": "Amp Boards",
+   "group": 18,
+   "position": [
+    0.18969,
+    0.12988,
+    0.00607
+   ],
+   "normal": [
+    -1.0,
+    0.0,
+    -0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "067af41d-6f92-49a1-baad-3d8bdcba22a3"
+   }
+  },
+  {
+   "id": "6f1a355c-2610-4393-a428-1583816f49f4",
+   "label": "Pre AMP",
+   "group": 18,
+   "position": [
+    0.17375,
+    -0.14327,
+    0.02402
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "c171da9b-1163-4a02-b726-6916aadb573c"
+   }
+  }
+ ]
+}

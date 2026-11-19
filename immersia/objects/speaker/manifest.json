@@ -3,20 +3,26 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "speaker",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "name": "Synode Speaker",
   "files": [
     {
-      "path": "xrscene_optimized.glb",
+      "path": "model.glb",
       "role": "model",
-      "size": 14760464,
-      "sha256": "db98e18094ac8ca97783b60bfa7f67c0537be5b590d0d1728d1d2c686c634f4d"
+      "size": 15496156,
+      "sha256": "96e839d4718d3f3b84d4a7a47ed1629fdea98b5e40ccb8e34d988dfb7fe9b0b8"
     },
     {
       "path": "synode.json",
       "role": "data",
       "size": 5081358,
       "sha256": "fd96758bfa4fbda6f1f9c239e9f4f540ef893dc1b32548e4f9de02561b52514f"
+    },
+    {
+      "path": "stages.json",
+      "role": "data",
+      "size": 15935,
+      "sha256": "dd25eb59c40256d9a68960c992a43ad969a49bada5a9f830bef460bef8af3fc5"
     }
   ]
 }

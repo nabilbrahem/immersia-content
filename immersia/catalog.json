@@ -13,7 +13,7 @@
     {
       "id": "speaker",
       "name": "Synode Speaker",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "manifest": "objects/speaker/manifest.json"
     }
   ]
