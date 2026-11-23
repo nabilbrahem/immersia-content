@@ -13,43 +13,43 @@
     {
       "id": "a320-cockpit",
       "name": "A320 Cockpit",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "objects/a320-cockpit/manifest.json"
     },
     {
       "id": "cnc-machine",
       "name": "CNC Machine",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "objects/cnc-machine/manifest.json"
     },
     {
       "id": "flat-layout",
       "name": "Flat Layout",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "objects/flat-layout/manifest.json"
     },
     {
       "id": "mclaren-650s-gt3",
       "name": "McLaren 650S GT3",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "objects/mclaren-650s-gt3/manifest.json"
     },
     {
       "id": "motrec",
       "name": "Motrec",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "objects/motrec/manifest.json"
     },
     {
       "id": "nintendo-controller",
       "name": "Nintendo Controller",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "objects/nintendo-controller/manifest.json"
     },
     {
       "id": "sonnenwagen",
       "name": "Sonnenwagen",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "manifest": "objects/sonnenwagen/manifest.json"
     },
     {
