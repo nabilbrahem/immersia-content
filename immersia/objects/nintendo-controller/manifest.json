@@ -3,7 +3,7 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "nintendo-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Nintendo Controller",
   "files": [
     {

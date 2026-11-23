@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "flat-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Flat Layout",
   "files": [
     {
       "path": "model.glb",
       "role": "model",
-      "size": 16266280,
-      "sha256": "8ddf285f61bb83240bda8f5f0c0be1327717575f0068dbbc7c1f393ab40d64fc"
+      "size": 13344572,
+      "sha256": "2998dd5f6bc75496fd371b6e246a8fdb3869cda8de91266ca2966a2bfcea7bb7"
     },
     {
       "path": "synode.json",

@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "sonnenwagen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Sonnenwagen",
   "files": [
     {
       "path": "model.glb",
       "role": "model",
-      "size": 51934212,
-      "sha256": "b7d918d0b20f08c264b34c90bcf3d50fd5047e9fc6cf9f17d248904581536254"
+      "size": 52430728,
+      "sha256": "9e6e3fc3240ece5525be1dca039ca44243174f18906fec7518442ff6a37aeac5"
     },
     {
       "path": "synode.json",
