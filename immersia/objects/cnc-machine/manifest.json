@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "cnc-machine",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "CNC Machine",
   "files": [
     {
       "path": "model.glb",
       "role": "model",
-      "size": 1704880,
-      "sha256": "98f305220a5ca9c1d63138ee48fbc7f7b02021d6497e124d44718ddbb2e7988a"
+      "size": 4550920,
+      "sha256": "92a6412061c1d9407e323407e2aa26638e92a36e1a3c57ec0b8bcee3892d57a0"
     },
     {
       "path": "synode.json",

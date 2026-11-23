@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "nintendo-controller",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "Nintendo Controller",
   "files": [
     {
       "path": "model.glb",
       "role": "model",
-      "size": 6733468,
-      "sha256": "e83f0dfd84bd6d534b27f5244dc4d1ed2bd32aa9f229dcaf2a99db54efef7219"
+      "size": 15774340,
+      "sha256": "22956fa242917e19145788649797f6594f3c129fca0c72cc53728799c8bfaf11"
     },
     {
       "path": "synode.json",
