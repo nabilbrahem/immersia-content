@@ -1,0 +1,316 @@
+{
+ "source": "Flat Layout.json",
+ "groups": [
+  "SynodeGroup_0"
+ ],
+ "mainStage": "9933d90c-8e3e-425a-b094-76d92a10e4fb",
+ "stages": [
+  {
+   "uuid": "9933d90c-8e3e-425a-b094-76d92a10e4fb",
+   "name": "Stage 1",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "868dc975-a798-47b6-aa07-9295330d8a35",
+   "name": "Living Room",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "a1047699-6a55-4ccb-a13e-18068b338e68",
+   "name": "Balcony",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "b8f15aa3-6b5c-48ed-9a44-96ca8c1114f9",
+   "name": "Room",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "bbd222ff-7971-4f63-9416-0c72ee7fa1a0",
+   "name": "Bathroom",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  }
+ ],
+ "hotspots": [
+  {
+   "id": "fdcdd9f8-81e4-421d-b960-cecaf05eb9ac",
+   "label": "Living Room",
+   "group": 0,
+   "position": [
+    17.47445,
+    0.51933,
+    -12.12571
+   ],
+   "normal": [
+    0.0,
+    0.0,
+    -1.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "868dc975-a798-47b6-aa07-9295330d8a35"
+   }
+  },
+  {
+   "id": "f5296a3d-8c7e-47c1-9584-caf758a9b37f",
+   "label": "Balcony",
+   "group": 0,
+   "position": [
+    23.85054,
+    0.52905,
+    -11.82006
+   ],
+   "normal": [
+    0.0,
+    0.0,
+    -1.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "a1047699-6a55-4ccb-a13e-18068b338e68"
+   }
+  },
+  {
+   "id": "04300b7a-a367-4da2-ab1d-01d8a094057c",
+   "label": "Room",
+   "group": 0,
+   "position": [
+    22.46725,
+    0.49886,
+    -20.70829
+   ],
+   "normal": [
+    0.0023,
+    0.9931,
+    -0.1171
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "b8f15aa3-6b5c-48ed-9a44-96ca8c1114f9"
+   }
+  },
+  {
+   "id": "35d260e2-5ff1-4f03-ab64-7a92b7b0b37e",
+   "label": "Home",
+   "group": 0,
+   "position": [
+    20.15407,
+    1.95282,
+    -11.72994
+   ],
+   "normal": [
+    0.0,
+    0.0,
+    -1.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "9933d90c-8e3e-425a-b094-76d92a10e4fb"
+   }
+  },
+  {
+   "id": "96ffa780-82b1-4757-81ed-3c012d324fd9",
+   "label": "Home",
+   "group": 0,
+   "position": [
+    24.4963,
+    2.26528,
+    -12.07623
+   ],
+   "normal": [
+    -0.7305,
+    0.6829,
+    0.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "9933d90c-8e3e-425a-b094-76d92a10e4fb"
+   }
+  },
+  {
+   "id": "97d72c34-cc1e-4286-bbcd-c7e03b4e30b3",
+   "label": "Home",
+   "group": 0,
+   "position": [
+    21.29388,
+    1.17628,
+    -21.93314
+   ],
+   "normal": [
+    0.0,
+    0.0,
+    1.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "9933d90c-8e3e-425a-b094-76d92a10e4fb"
+   }
+  },
+  {
+   "id": "78487594-958d-4adf-850b-ec2ac742050f",
+   "label": "Countertop",
+   "group": 0,
+   "position": [
+    23.28769,
+    0.88,
+    -14.71826
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "ca31a962-62d4-4663-9215-c54103ab0962"
+   }
+  },
+  {
+   "id": "85b7b81e-0342-4b85-862d-1dd277593c7c",
+   "label": "Shower",
+   "group": 0,
+   "position": [
+    22.12002,
+    1.14224,
+    -17.38074
+   ],
+   "normal": [
+    0.2971,
+    0.9549,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "6c7a070a-6890-4a2f-9c8b-339a1205e95e"
+   }
+  },
+  {
+   "id": "64f8415d-0285-414c-af45-c36bdd3f6029",
+   "label": "Home",
+   "group": 0,
+   "position": [
+    19.94161,
+    1.2,
+    -16.98784
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    0.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "9933d90c-8e3e-425a-b094-76d92a10e4fb"
+   }
+  },
+  {
+   "id": "5260aa70-a129-49d9-9f9f-0e12b8bdc7ce",
+   "label": "Bathroom",
+   "group": 0,
+   "position": [
+    20.79388,
+    0.85,
+    -17.29787
+   ],
+   "normal": [
+    0.022,
+    0.9983,
+    -0.0544
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "bbd222ff-7971-4f63-9416-0c72ee7fa1a0"
+   }
+  }
+ ]
+}

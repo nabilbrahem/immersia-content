@@ -1,0 +1,667 @@
+{
+ "source": "McLaren 650S GT3.json",
+ "groups": [
+  "SynodeGroup_0",
+  "SynodeGroup_1",
+  "SynodeGroup_2",
+  "SynodeGroup_3"
+ ],
+ "mainStage": "1b28a3db-afa9-491a-bf22-4ac9e4925539",
+ "stages": [
+  {
+   "uuid": "1b28a3db-afa9-491a-bf22-4ac9e4925539",
+   "name": "Stage 1",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "uuid": "6b8fc1e0-6b57-46af-879a-558512bcda8f",
+   "name": "Stage 2",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "uuid": "987fe8d0-0462-4dab-9a91-bce375be28ca",
+   "name": "Stage 3",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.0297,
+    0.0,
+    -0.3744,
+    1.0371,
+    -0.3805,
+    0.3744,
+    1.0371,
+    -0.3805
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.3769,
+    0.1604,
+    0.0665,
+    0.9098,
+    0.3769,
+    -0.1604,
+    -0.0665,
+    0.9098
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    false,
+    true,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "6e64c4f8-74de-491f-8e26-c9d3a8cce6bb",
+   "name": "Stage 4",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.3744,
+    1.0371,
+    -0.3805,
+    0.3744,
+    1.0371,
+    -0.3805
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.3769,
+    0.1604,
+    0.0665,
+    0.9098,
+    0.3769,
+    -0.1604,
+    -0.0665,
+    0.9098
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true
+   ]
+  }
+ ],
+ "hotspots": [
+  {
+   "id": "7e267f8e-a90c-4bde-b36c-bc8662bdcb42",
+   "label": "Enter Cockpit",
+   "group": 0,
+   "position": [
+    0.31926,
+    0.64668,
+    0.4516
+   ],
+   "normal": [
+    -0.0017,
+    0.6304,
+    -0.7763
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "6b8fc1e0-6b57-46af-879a-558512bcda8f"
+   }
+  },
+  {
+   "id": "03cd475f-eaef-4841-b659-6d3b0c0beab2",
+   "label": "Carbon Fiber Roof",
+   "group": 0,
+   "position": [
+    -0.00611,
+    1.14601,
+    -0.14391
+   ],
+   "normal": [
+    -0.0014,
+    0.9999,
+    -0.0142
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "63a92c9e-813e-4932-9dd5-c4c543f27552"
+   }
+  },
+  {
+   "id": "75e3feb2-022d-4806-a73e-6b626d5defcd",
+   "label": "Exterior Design & Aerodynamics",
+   "group": 3,
+   "position": [
+    0.85107,
+    0.72702,
+    -0.27763
+   ],
+   "normal": [
+    0.6827,
+    0.7243,
+    0.0967
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "6e64c4f8-74de-491f-8e26-c9d3a8cce6bb"
+   }
+  },
+  {
+   "id": "98fca35c-4166-4391-917c-8dd3d31ba5a9",
+   "label": "Steering Wheel",
+   "group": 0,
+   "position": [
+    0.31538,
+    0.64051,
+    0.44885
+   ],
+   "normal": [
+    0.0,
+    0.2205,
+    -0.9754
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "7221017b-87d2-4827-b5e4-5d679a55532b"
+   }
+  },
+  {
+   "id": "da2e6444-2701-48d4-a4ae-3c98e614e390",
+   "label": "Instrument Cluster",
+   "group": 0,
+   "position": [
+    0.31646,
+    0.73729,
+    0.64531
+   ],
+   "normal": [
+    0.0001,
+    0.1033,
+    -0.9946
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "296e4032-ec4a-496f-b016-0aefc76ea10a"
+   }
+  },
+  {
+   "id": "ad0ea5d9-c071-4e74-9483-b7aaa778453b",
+   "label": "Infotainment Display ",
+   "group": 0,
+   "position": [
+    0.01659,
+    0.61684,
+    0.46345
+   ],
+   "normal": [
+    0.3107,
+    0.243,
+    -0.9189
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "7fe5a28f-4348-45f2-975c-34801d995f2a"
+   }
+  },
+  {
+   "id": "24f7161d-88fc-42a4-b784-c41b537588b8",
+   "label": "Fire Suppression System",
+   "group": 1,
+   "position": [
+    -0.34943,
+    0.26834,
+    0.91543
+   ],
+   "normal": [
+    0.0665,
+    0.4151,
+    -0.9073
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "987fe8d0-0462-4dab-9a91-bce375be28ca"
+   }
+  },
+  {
+   "id": "4f7b9eba-cea3-44dd-be19-f98ec54e8c4e",
+   "label": "Seat Cover",
+   "group": 0,
+   "position": [
+    0.40111,
+    0.42521,
+    -0.12517
+   ],
+   "normal": [
+    -0.0008,
+    0.3117,
+    0.9502
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "8081795e-9830-4f3e-8f62-46f1de602b7f"
+   }
+  },
+  {
+   "id": "b44c08a2-5157-4cea-ae86-faf02f556a92",
+   "label": "Compressed-Gas Reservoir",
+   "group": 1,
+   "position": [
+    -0.17502,
+    0.29379,
+    0.93346
+   ],
+   "normal": [
+    -0.112,
+    0.717,
+    -0.688
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "bbf6c3b5-6277-4bf5-9f6d-4edf9041fe99"
+   }
+  },
+  {
+   "id": "8e21d7bc-c0ab-489d-b131-5d25e9fda4dc",
+   "label": "Pressure Regulator",
+   "group": 1,
+   "position": [
+    -0.35641,
+    0.35851,
+    0.99042
+   ],
+   "normal": [
+    0.3575,
+    0.131,
+    -0.9247
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "0401abd9-2c54-42d3-88da-908ce375a166"
+   }
+  },
+  {
+   "id": "036043c1-e826-4cc3-ba0c-6ee1664c3ad7",
+   "label": "Air-Jack Lance Receiver",
+   "group": 1,
+   "position": [
+    -0.4979,
+    0.39855,
+    0.79822
+   ],
+   "normal": [
+    0.9787,
+    -0.1502,
+    -0.1401
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "8f7f0bed-b428-4214-9df1-ef01ada8f150"
+   }
+  },
+  {
+   "id": "8c827bef-339f-4732-9fea-e72260200a9c",
+   "label": "Reservoir Mounting Straps",
+   "group": 1,
+   "position": [
+    -0.20221,
+    0.27848,
+    0.91884
+   ],
+   "normal": [
+    0.0,
+    0.4126,
+    -0.9109
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "5a72adb3-274c-4070-ba70-edc39293f861"
+   }
+  },
+  {
+   "id": "8f2deafe-e028-424a-a3a9-d0a5b43d9e44",
+   "label": "Rear Racing Wheel & Tire",
+   "group": -1,
+   "position": [
+    -0.959559435697416,
+    0.3681912592906563,
+    -1.3953684040936722
+   ],
+   "normal": null,
+   "action": {
+    "type": "callout",
+    "calloutUuid": "6ee20b08-a9e7-43c6-87fd-c9e6d0c9f609"
+   }
+  },
+  {
+   "id": "cf25dbec-6c31-4ab7-a20e-00f482f51b63",
+   "label": "Front LED Light Strip",
+   "group": 0,
+   "position": [
+    -0.75514,
+    0.55761,
+    1.83908
+   ],
+   "normal": [
+    -0.5434,
+    0.6516,
+    0.5294
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "b349e90d-9b67-48bc-bd94-5eddb2cad36a"
+   }
+  },
+  {
+   "id": "26a99e4f-9f31-4283-b379-e795a0d04e1d",
+   "label": "Dihedral Door System",
+   "group": 2,
+   "position": [
+    -0.88111,
+    0.43622,
+    0.19204
+   ],
+   "normal": [
+    -0.9965,
+    0.0323,
+    -0.0778
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "823a6640-9814-485c-ba3b-b680e2a28bcb"
+   }
+  },
+  {
+   "id": "1309f1c9-ccb3-4e8c-a74c-27bb6888a339",
+   "label": "Carbon Fiber Rear Wing",
+   "group": 0,
+   "position": [
+    -0.0971,
+    1.08565,
+    -2.15523
+   ],
+   "normal": [
+    -0.0089,
+    0.9956,
+    0.093
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "bdd30c1d-7773-4f66-9df9-8a09e4ed8e44"
+   }
+  },
+  {
+   "id": "5fcd356e-392c-475f-a177-d683aee4568f",
+   "label": "LED Rear Light Assembly",
+   "group": 0,
+   "position": [
+    -0.63874,
+    0.69824,
+    -2.06468
+   ],
+   "normal": [
+    -0.3717,
+    0.3748,
+    -0.8493
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "736da0e0-52e8-4e65-876b-2036a3624333"
+   }
+  },
+  {
+   "id": "9b27815c-8f59-4f4d-9b79-e092bb7cdda9",
+   "label": "Hood Air Extractor",
+   "group": 0,
+   "position": [
+    0.12277,
+    0.66534,
+    1.53882
+   ],
+   "normal": [
+    0.0887,
+    0.8366,
+    0.5406
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "bd5889bc-2da3-4b26-8712-ba9869d4f534"
+   }
+  },
+  {
+   "id": "f410373a-d33a-4b37-8e52-d5b1853ec36b",
+   "label": "Racing Slick Tire",
+   "group": 0,
+   "position": [
+    0.95596,
+    0.56007,
+    1.47829
+   ],
+   "normal": [
+    0.1346,
+    0.6253,
+    0.7687
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "1dd5ae0b-d570-42a3-9e2a-dd6086fea5a8"
+   }
+  },
+  {
+   "id": "91fbf732-0e84-45d7-b29a-cfbe2919fc4d",
+   "label": "Lightweight Racing Wheel",
+   "group": 0,
+   "position": [
+    0.97828,
+    0.48322,
+    1.38807
+   ],
+   "normal": [
+    -0.2209,
+    0.6076,
+    0.7629
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "2e4837cf-73e6-4a30-a7fa-0dcf54dd9eca"
+   }
+  },
+  {
+   "id": "fac0e328-06c2-4e1a-a8fa-8df27634e388",
+   "label": "Brake Disc Assembly",
+   "group": 0,
+   "position": [
+    0.90416,
+    0.37258,
+    1.22615
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "a36b854b-f715-4ecc-bf01-126b8fe2d769"
+   }
+  },
+  {
+   "id": "8140c5b6-a494-464b-93b3-e310c8033362",
+   "label": "Pressure Gauge",
+   "group": 1,
+   "position": [
+    -0.36501,
+    0.30366,
+    0.92033
+   ],
+   "normal": [
+    0.0433,
+    0.6764,
+    -0.7353
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "83fd7468-a784-4fae-ad70-fd56214617a7"
+   }
+  },
+  {
+   "id": "abfab6af-8a1a-40ca-af26-61dccf3e0341",
+   "label": "High-Pressure Air Lines",
+   "group": -1,
+   "position": [
+    -0.08874236852690513,
+    0.2407306439018631,
+    1.077669617878116
+   ],
+   "normal": null,
+   "action": {
+    "type": "callout",
+    "calloutUuid": "a72a7d02-7d7d-4e03-a31e-9dd2ffa503bf"
+   }
+  }
+ ]
+}

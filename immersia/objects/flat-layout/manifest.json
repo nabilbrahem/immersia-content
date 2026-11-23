@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "kind": "object",
+  "id": "flat-layout",
+  "version": "1.0.0",
+  "name": "Flat Layout",
+  "files": [
+    {
+      "path": "model.glb",
+      "role": "model",
+      "size": 16266280,
+      "sha256": "8ddf285f61bb83240bda8f5f0c0be1327717575f0068dbbc7c1f393ab40d64fc"
+    },
+    {
+      "path": "synode.json",
+      "role": "data",
+      "size": 30433,
+      "sha256": "833033c1a2ed36475d850310eebf495f1037caace2086935e5d266d609479ea5"
+    },
+    {
+      "path": "stages.json",
+      "role": "data",
+      "size": 4867,
+      "sha256": "4cafd4f20ee6456a7a87d32e6d6e9c468a63a005114c4ab16f6edab06e867ed1"
+    }
+  ]
+}

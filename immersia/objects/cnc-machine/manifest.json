@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "kind": "object",
+  "id": "cnc-machine",
+  "version": "1.0.0",
+  "name": "CNC Machine",
+  "files": [
+    {
+      "path": "model.glb",
+      "role": "model",
+      "size": 15443024,
+      "sha256": "ad671ab3b0110d7ecbea6bb076cec643f8924d29e1826a7938a4cbb2d5fc7c5d"
+    },
+    {
+      "path": "synode.json",
+      "role": "data",
+      "size": 69373,
+      "sha256": "5213614bda48856b4d6d9059b28d73b16e34ac56028aa201cee7be649e94ba22"
+    },
+    {
+      "path": "stages.json",
+      "role": "data",
+      "size": 7732,
+      "sha256": "ac20976d735be7cf9f7c05289af0d742de750bde67a472030727db768dd120bf"
+    }
+  ]
+}

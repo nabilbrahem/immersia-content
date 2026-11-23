@@ -1,0 +1,1747 @@
+{
+ "source": "Sonnenwagen test.json",
+ "groups": [
+  "SynodeGroup_0",
+  "SynodeGroup_1",
+  "SynodeGroup_2",
+  "SynodeGroup_3",
+  "SynodeGroup_4",
+  "SynodeGroup_5",
+  "SynodeGroup_6",
+  "SynodeGroup_7",
+  "SynodeGroup_8",
+  "SynodeGroup_9",
+  "SynodeGroup_10",
+  "SynodeGroup_11",
+  "SynodeGroup_12",
+  "SynodeGroup_13"
+ ],
+ "mainStage": "1e4ead10-cf7c-42cf-aa7f-c73b158d82ba",
+ "stages": [
+  {
+   "uuid": "1e4ead10-cf7c-42cf-aa7f-c73b158d82ba",
+   "name": "Stage 1",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0865,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "uuid": "b511998d-a8ab-41c6-bf52-3615c37839f3",
+   "name": "Stage 2",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0865,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "796d9f7c-d161-4a8e-8848-4bfe4f4145be",
+   "name": "Stage 2A",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0865,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "d76caa68-60e5-459e-837a-4f3f4bd36edd",
+   "name": "Stage 3",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0865,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "ce96bb9c-ab7f-4f85-aea1-37beee7c5120",
+   "name": "Stage 4",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -1.4844,
+    0.0,
+    0.0,
+    -1.2178,
+    0.0,
+    0.0,
+    4.002,
+    0.0,
+    0.0,
+    2.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    3.0,
+    0.0,
+    0.0,
+    -0.757,
+    0.0,
+    0.0,
+    0.9,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    4.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0865,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false
+   ]
+  }
+ ],
+ "hotspots": [
+  {
+   "id": "f2ad0d3d-02d6-46df-875c-bf7d3f714c06",
+   "label": "Driver Cockpit",
+   "group": 12,
+   "position": [
+    3.87813,
+    7.22602,
+    -1.36269
+   ],
+   "normal": [
+    0.0721,
+    0.0298,
+    -0.997
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "b511998d-a8ab-41c6-bf52-3615c37839f3"
+   }
+  },
+  {
+   "id": "6fe97e6f-8297-4aca-a974-0d59980fc084",
+   "label": "Wheel & Suspension",
+   "group": 0,
+   "position": [
+    4.48075,
+    0.23124,
+    -4.70969
+   ],
+   "normal": [
+    0.0834,
+    -0.322,
+    -0.9431
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "d76caa68-60e5-459e-837a-4f3f4bd36edd"
+   }
+  },
+  {
+   "id": "66f70264-d4c2-4831-93ed-5c346ea4da81",
+   "label": "Hotspot 9",
+   "group": 6,
+   "position": [
+    -24.26358,
+    4.50664,
+    -1.1972
+   ],
+   "normal": [
+    -0.2319,
+    -0.4836,
+    -0.844
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "15d1243c-fd4b-425f-be32-737c27851a13",
+   "label": "Hotspot 10",
+   "group": 6,
+   "position": [
+    -24.76066,
+    2.85757,
+    -1.46423
+   ],
+   "normal": [
+    -0.4138,
+    0.0362,
+    -0.9096
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "dfce904f-5fa6-4e83-b56c-153887a39b60",
+   "label": "Hotspot 11",
+   "group": 6,
+   "position": [
+    -27.17495,
+    3.55313,
+    -0.44345
+   ],
+   "normal": [
+    0.1074,
+    -0.1028,
+    -0.9889
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "d166af8c-2c92-4e0d-abda-1bc960d32e89",
+   "label": "Hotspot 12",
+   "group": 0,
+   "position": [
+    -3.62738,
+    3.26569,
+    -0.07935
+   ],
+   "normal": [
+    0.9258,
+    0.3781,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "ae723bf3-ba07-4ef4-90d6-ac2362c40782",
+   "label": "The Back Seat",
+   "group": 0,
+   "position": [
+    -3.51626,
+    2.9936,
+    1.94315
+   ],
+   "normal": [
+    0.9258,
+    0.3781,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "6b0a4fbd-3f73-4075-bedd-401c4c5ae1fb"
+   }
+  },
+  {
+   "id": "3ef09520-4795-4c7b-ab2d-50b48b4d17d2",
+   "label": "Hotspot 14",
+   "group": 13,
+   "position": [
+    1.74088,
+    5.93495,
+    -5.5501
+   ],
+   "normal": [
+    0.0124,
+    0.9973,
+    -0.0727
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "d8831032-d032-4708-a731-563ee786aafe",
+   "label": "Hotspot 15",
+   "group": 0,
+   "position": [
+    -1.78317,
+    3.89724,
+    -2.78454
+   ],
+   "normal": [
+    0.0935,
+    -0.0208,
+    -0.9954
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "d7685ad8-b07a-45a1-b0ad-b9de8dba2f04",
+   "label": "Hotspot 16",
+   "group": 0,
+   "position": [
+    -29.76621,
+    3.29363,
+    0.20686
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "320ebc49-35be-4151-93c8-1cadd9ceaacf",
+   "label": "Hotspot 17",
+   "group": 0,
+   "position": [
+    -18.31778,
+    2.81551,
+    -5.36828
+   ],
+   "normal": [
+    -0.065,
+    -0.355,
+    -0.9326
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "9447c4c3-dbdf-4e79-82c8-3ab6ccf55514",
+   "label": "Hotspot 17",
+   "group": 4,
+   "position": [
+    -25.58186,
+    0.32603,
+    -0.01524
+   ],
+   "normal": [
+    -0.1732,
+    0.9849,
+    -0.0015
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "c9234cb9-4750-47c2-a1dc-98d358273548",
+   "label": "The Steering Wheel",
+   "group": 0,
+   "position": [
+    2.49232,
+    5.33195,
+    0.71233
+   ],
+   "normal": [
+    -0.9888,
+    0.1493,
+    -0.0024
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "09b6fd0c-ff54-42e5-b569-57e2a2759957"
+   }
+  },
+  {
+   "id": "9e6d8f37-c5c7-4b83-933b-6fcd21899862",
+   "label": "The Crash Absorber",
+   "group": 0,
+   "position": [
+    9.25817,
+    3.0421,
+    2.75262
+   ],
+   "normal": [
+    -1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "a78e003f-ba32-4801-b663-328d4a9613f9"
+   }
+  },
+  {
+   "id": "3cef9b0c-ac06-4475-aadf-b581844f113b",
+   "label": "The Seat Cushion",
+   "group": 0,
+   "position": [
+    -4.91089,
+    6.40838,
+    -0.51691
+   ],
+   "normal": [
+    0.9258,
+    0.3781,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "3a99290a-e23a-4400-8104-4f284d524c54"
+   }
+  },
+  {
+   "id": "ed108bd9-865e-49c9-b094-df8bb3286b7d",
+   "label": "Solar Cell Array",
+   "group": 13,
+   "position": [
+    -15.41059,
+    6.14191,
+    0.35438
+   ],
+   "normal": [
+    -0.0002,
+    1.0,
+    -0.0005
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "e6245caf-b1e4-4cf8-8efe-db17b19eff51"
+   }
+  },
+  {
+   "id": "405f1681-b4be-4b86-8beb-f926cd00c014",
+   "label": "The Headlamp Cover",
+   "group": 0,
+   "position": [
+    10.12122,
+    3.85306,
+    3.29204
+   ],
+   "normal": [
+    0.6132,
+    0.714,
+    0.338
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "7444115d-68c7-48a2-aa9e-47ff716df069"
+   }
+  },
+  {
+   "id": "4e379527-9ee3-4467-a6a0-58d4edfa100f",
+   "label": "The LED Heat Sink",
+   "group": 0,
+   "position": [
+    8.70913,
+    4.51051,
+    4.22475
+   ],
+   "normal": [
+    0.5882,
+    0.606,
+    0.5356
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "0b4fece0-3ec5-4082-b09d-cf5c04d888da"
+   }
+  },
+  {
+   "id": "6ae495d4-579d-491d-b481-6ba33897f787",
+   "label": "The Battery Damping",
+   "group": 0,
+   "position": [
+    -5.30225,
+    1.95481,
+    -0.99533
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "cbbc05ee-4312-4c44-aa9a-3ff1eed474f9"
+   }
+  },
+  {
+   "id": "03df39f4-c2df-42f4-b30d-5ffb609230e2",
+   "label": "The Battery Cell Holder ",
+   "group": 0,
+   "position": [
+    -5.17091,
+    1.95481,
+    1.01873
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "851b8812-9642-4313-bdb5-999fd5e86288"
+   }
+  },
+  {
+   "id": "e85eb3b3-aad5-44aa-897f-0b64d7eb2517",
+   "label": "The Coating",
+   "group": 0,
+   "position": [
+    3.568,
+    3.2311,
+    5.45988
+   ],
+   "normal": [
+    0.0718,
+    -0.1047,
+    0.9919
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "706adc8d-4501-4504-abe2-47b6a86cd19a"
+   }
+  },
+  {
+   "id": "2a0cdbd4-d4ae-49dd-a84a-40d8103c0621",
+   "label": "Hotspot 22",
+   "group": 6,
+   "position": [
+    -25.08086,
+    2.96526,
+    -1.30236
+   ],
+   "normal": [
+    -0.1817,
+    0.7349,
+    -0.6533
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "7a80df73-a233-4119-b48c-8a53a74cb1bb",
+   "label": "Hotspot 23",
+   "group": 6,
+   "position": [
+    -24.69368,
+    4.64075,
+    -1.05726
+   ],
+   "normal": [
+    -0.6691,
+    -0.7431,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "692a1f9d-878b-470c-969e-bc16bd44524c",
+   "label": "Hotspot 24",
+   "group": 2,
+   "position": [
+    -26.19471,
+    2.7948,
+    -0.796
+   ],
+   "normal": [
+    0.0,
+    0.0,
+    -1.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "f96f7d27-1cef-494d-8ddd-f4060286f78c",
+   "label": "Hotspot 25",
+   "group": 4,
+   "position": [
+    -27.38637,
+    1.69408,
+    -0.45729
+   ],
+   "normal": [
+    -0.1656,
+    0.2366,
+    -0.9574
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "a69dcd24-5f60-42ca-950c-901644042dd0",
+   "label": "Battery System",
+   "group": 0,
+   "position": [
+    -5.50569,
+    2.04317,
+    -0.61518
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    -0.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "796d9f7c-d161-4a8e-8848-4bfe4f4145be"
+   }
+  },
+  {
+   "id": "ed5506fd-25f4-44bf-9780-831873066693",
+   "label": "Instrument Display",
+   "group": 0,
+   "position": [
+    5.14529,
+    5.73445,
+    -0.22576
+   ],
+   "normal": [
+    -0.9784,
+    0.2066,
+    -0.0042
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "a5b06e07-b080-4a8c-b2b5-ce8262e843e3"
+   }
+  },
+  {
+   "id": "6be77726-94c3-40cd-a777-d3f08f3b2b56",
+   "label": "Steering Rack & Linkage",
+   "group": 0,
+   "position": [
+    4.42144,
+    4.54557,
+    0.42609
+   ],
+   "normal": [
+    -0.9744,
+    0.2249,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "fc49ddc3-a953-4840-be93-30111933e6bc"
+   }
+  },
+  {
+   "id": "2670e85d-a851-4351-a44a-67b007804dec",
+   "label": "Hotspot 29",
+   "group": 0,
+   "position": [
+    4.06543,
+    2.66555,
+    -5.0264
+   ],
+   "normal": [
+    0.096,
+    -0.0926,
+    -0.9911
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": null
+   }
+  },
+  {
+   "id": "258e84d0-b86f-404a-bee7-0c73645a1e97",
+   "label": "Hotspot 30",
+   "group": 0,
+   "position": [
+    4.09149,
+    2.43631,
+    -3.47
+   ],
+   "normal": [
+    0.0,
+    -0.0004,
+    1.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "f1e94f80-8d5c-4bec-ba64-62a85b0b6cf1",
+   "label": "Hotspot 31",
+   "group": 6,
+   "position": [
+    -25.87705,
+    2.59255,
+    0.62482
+   ],
+   "normal": [
+    0.2004,
+    -0.2189,
+    0.9549
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": null
+   }
+  },
+  {
+   "id": "48fc90b0-4bd3-41cd-a25e-5f7ba6d67b1b",
+   "label": "Hotspot 32",
+   "group": 6,
+   "position": [
+    -25.7131,
+    2.63781,
+    -0.78664
+   ],
+   "normal": [
+    -0.9578,
+    0.2875,
+    0.0003
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "42b24c51-2f6d-477a-8baf-ade628479cf2",
+   "label": "Hotspot 33",
+   "group": 6,
+   "position": [
+    -24.81749,
+    4.2066,
+    -1.08085
+   ],
+   "normal": [
+    -0.666,
+    0.4864,
+    -0.5656
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "b9dd1c67-736e-4d95-b07c-2eaf70a7b049",
+   "label": "Shock Absorber",
+   "group": 6,
+   "position": [
+    -24.86418,
+    4.13022,
+    -1.10348
+   ],
+   "normal": [
+    -0.5879,
+    0.4689,
+    -0.6591
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "ec5a91ec-b745-481f-8d23-a86c6a3732b7"
+   }
+  },
+  {
+   "id": "6057b6b7-e0dd-4311-8502-c901cf9cb390",
+   "label": "Rear Suspension Mechanism",
+   "group": 6,
+   "position": [
+    -25.39025,
+    2.79468,
+    -1.1803
+   ],
+   "normal": [
+    -0.4138,
+    0.0362,
+    -0.9096
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "5e57df5e-a688-4ac4-894d-42ed50becdae"
+   }
+  },
+  {
+   "id": "4b12a634-ed62-43c4-a1f9-966e8e65a577",
+   "label": "Wheel Hub & Brake Assembly",
+   "group": 6,
+   "position": [
+    -27.09787,
+    3.03175,
+    -0.42408
+   ],
+   "normal": [
+    0.0424,
+    0.0023,
+    -0.9991
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "ce96bb9c-ab7f-4f85-aea1-37beee7c5120"
+   }
+  },
+  {
+   "id": "34b2f3b0-1440-41ae-93fb-3e91acd0df66",
+   "label": "Tire",
+   "group": 4,
+   "position": [
+    -27.99778,
+    4.54041,
+    -0.06309
+   ],
+   "normal": [
+    -0.7358,
+    0.6772,
+    0.003
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "54291049-7c96-412b-a879-7cd0077e9d5c"
+   }
+  },
+  {
+   "id": "b89cc547-0dfb-4840-b0c2-6ddd8cf6210f",
+   "label": "Wheel Rim",
+   "group": 5,
+   "position": [
+    -27.79956,
+    3.50507,
+    0.16002
+   ],
+   "normal": [
+    -0.6596,
+    0.2812,
+    -0.697
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "ef1f5b43-31ca-4cba-a871-05fe131824f8"
+   }
+  },
+  {
+   "id": "264f0ee0-f318-4730-96f5-0a59f9f19a60",
+   "label": "Wheel Hub Assembly",
+   "group": 1,
+   "position": [
+    -26.04846,
+    3.08155,
+    0.10909
+   ],
+   "normal": [
+    -0.7938,
+    0.6082,
+    0.001
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "04088e4e-3c52-4029-ab50-dc4a74eb98ff"
+   }
+  },
+  {
+   "id": "f358c9e3-9040-48ec-ab65-546dbdda4824",
+   "label": "Retaining Ring",
+   "group": 3,
+   "position": [
+    -26.52479,
+    3.35827,
+    -0.5975
+   ],
+   "normal": [
+    0.0,
+    0.0,
+    1.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "3eccbf56-d231-4905-881c-edbac972c125"
+   }
+  },
+  {
+   "id": "4c13301a-d88a-4e0f-8566-469b1d7f67a4",
+   "label": "Hotspot 41",
+   "group": 0,
+   "position": [
+    -5.48068,
+    1.9108,
+    1.24735
+   ],
+   "normal": [
+    0.0349,
+    0.9994,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": null
+   }
+  },
+  {
+   "id": "731f2fc6-28cf-48ed-8700-c6e829e4d633",
+   "label": "Mounting Bolt",
+   "group": 7,
+   "position": [
+    -27.7781,
+    3.15633,
+    0.12643
+   ],
+   "normal": [
+    -0.9066,
+    0.4101,
+    -0.099
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "58fd5bb0-724c-4807-9762-c04a02379d85"
+   }
+  },
+  {
+   "id": "a6b47402-2e26-40fc-99c7-6ec2b025374a",
+   "label": "Mounting Bolt",
+   "group": 9,
+   "position": [
+    -26.20535,
+    2.9125,
+    -0.03698
+   ],
+   "normal": [
+    -0.1056,
+    0.994,
+    -0.0274
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "dc6edda2-b00b-443c-be45-9270271d1393"
+   }
+  },
+  {
+   "id": "f3b2d19d-c249-47c0-b804-1d2e06f8c921",
+   "label": "Mounting Fasteners",
+   "group": 8,
+   "position": [
+    -26.6317,
+    2.87427,
+    -0.58207
+   ],
+   "normal": [
+    -0.9628,
+    0.1348,
+    -0.234
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "61f01aee-084e-4069-a92c-761cc5c94473"
+   }
+  },
+  {
+   "id": "5bf0dd65-6ec2-4264-97f5-7e24df4fca91",
+   "label": "Mounting Bolt",
+   "group": 2,
+   "position": [
+    -26.22279,
+    2.84208,
+    -0.74857
+   ],
+   "normal": [
+    -0.9993,
+    0.0365,
+    0.012
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "93d6594f-bea9-45e5-9784-1c11c8e27aac"
+   }
+  },
+  {
+   "id": "743ddbef-23bb-401b-ba49-6df5b93815d6",
+   "label": "Suspension & Steering System",
+   "group": 6,
+   "position": [
+    -27.8443,
+    4.82007,
+    -0.34324
+   ],
+   "normal": [
+    -0.5831,
+    0.6751,
+    -0.4519
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "598ab518-12d2-434c-97f1-112f2cd6b33c"
+   }
+  },
+  {
+   "id": "71da5e79-fc97-4560-99f6-fd8f001a1f49",
+   "label": "The Cockpit Canopy",
+   "group": 0,
+   "position": [
+    -1.80618,
+    9.04119,
+    -0.79695
+   ],
+   "normal": [
+    -0.1046,
+    0.9916,
+    -0.0762
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "e3b83ae0-954f-44e3-996c-200bc1656276"
+   }
+  }
+ ]
+}

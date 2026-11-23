@@ -1,0 +1,56 @@
+{
+ "source": "Motrec.json",
+ "groups": [
+  "SynodeGroup_0"
+ ],
+ "mainStage": "f7b3fc1d-79f1-4811-8dfb-bb207cce70ea",
+ "stages": [
+  {
+   "uuid": "f7b3fc1d-79f1-4811-8dfb-bb207cce70ea",
+   "name": "",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "c9e4c292-55bf-4c09-bf3c-6741177676f6",
+   "name": "Stage 2",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  }
+ ],
+ "hotspots": []
+}

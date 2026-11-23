@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "kind": "object",
+  "id": "motrec",
+  "version": "1.0.0",
+  "name": "Motrec",
+  "files": [
+    {
+      "path": "model.glb",
+      "role": "model",
+      "size": 26606292,
+      "sha256": "bbbabffaf5f95e35d346511c62616c8590ba68b5489aac2e708421a65476f907"
+    },
+    {
+      "path": "synode.json",
+      "role": "data",
+      "size": 1310018,
+      "sha256": "0c30beb7d13c90c344866fbfe5404e1a9c1b6931224b5fc7d2e3ef367474916a"
+    },
+    {
+      "path": "stages.json",
+      "role": "data",
+      "size": 730,
+      "sha256": "c114c29df67e072c9dfc25f9dd0efddeee55618399562a3fbab07bf7718ea8d3"
+    }
+  ]
+}

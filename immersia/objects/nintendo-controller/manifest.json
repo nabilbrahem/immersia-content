@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "kind": "object",
+  "id": "nintendo-controller",
+  "version": "1.0.0",
+  "name": "Nintendo Controller",
+  "files": [
+    {
+      "path": "model.glb",
+      "role": "model",
+      "size": 19677360,
+      "sha256": "4b81dc9cf6b5f5b50aa06c6a960aee0876969e771b58cdc29b3e4785c35fc882"
+    },
+    {
+      "path": "synode.json",
+      "role": "data",
+      "size": 53270,
+      "sha256": "52d0c62ae586b017b00d6790eeba59ea248d385e4a08d2c9aa4c5bc6b7636040"
+    },
+    {
+      "path": "stages.json",
+      "role": "data",
+      "size": 5132,
+      "sha256": "a40d238396dd30eeddd14e29591941714be0401c8bf40eab21daec8f038d2e49"
+    }
+  ]
+}

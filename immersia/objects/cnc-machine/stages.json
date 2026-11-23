@@ -1,0 +1,523 @@
+{
+ "source": "CNC_Machine.json",
+ "groups": [
+  "SynodeGroup_0",
+  "SynodeGroup_1",
+  "SynodeGroup_2",
+  "SynodeGroup_3"
+ ],
+ "mainStage": "8254a177-5353-4414-9169-14cf03ddc188",
+ "stages": [
+  {
+   "uuid": "8254a177-5353-4414-9169-14cf03ddc188",
+   "name": "",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "uuid": "7b182ea4-808d-459d-8993-96bf6fd3e65f",
+   "name": "Stage 2",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    false,
+    false
+   ]
+  },
+  {
+   "uuid": "11cea4d0-0ad5-4603-b25a-449ca6ae4ec0",
+   "name": "Stage 3",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    false,
+    false,
+    true,
+    false
+   ]
+  },
+  {
+   "uuid": "a8ebc6c6-139d-4a51-9ddd-f391558eb18a",
+   "name": "Stage 4",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    false,
+    false,
+    true
+   ]
+  }
+ ],
+ "hotspots": [
+  {
+   "id": "14ddcd1b-03a2-4806-8237-3d1d3c2419d6",
+   "label": "CNC_Machine Assembly",
+   "group": 1,
+   "position": [
+    4.63166,
+    5.74871,
+    7.74936
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "7b182ea4-808d-459d-8993-96bf6fd3e65f"
+   }
+  },
+  {
+   "id": "6c25dd72-ae40-4710-a4d3-2dc5ed55d94f",
+   "label": "Machine interface assembly",
+   "group": 3,
+   "position": [
+    8.00487,
+    7.13718,
+    -6.66736
+   ],
+   "normal": [
+    0.6894,
+    0.2224,
+    0.6894
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "a8ebc6c6-139d-4a51-9ddd-f391558eb18a"
+   }
+  },
+  {
+   "id": "936419a5-571d-409e-a4ae-c2061b9e4b37",
+   "label": "Control box assembly",
+   "group": 2,
+   "position": [
+    0.52837,
+    11.11022,
+    -0.91292
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "11cea4d0-0ad5-4603-b25a-449ca6ae4ec0"
+   }
+  },
+  {
+   "id": "99da9e5b-62c1-4ff6-ae33-cd83bd8c21ec",
+   "label": "Frames",
+   "group": 1,
+   "position": [
+    4.63166,
+    5.80919,
+    7.53197
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "2b9f72d2-fbb2-4194-8261-54792f157dda"
+   }
+  },
+  {
+   "id": "c284af65-cbbd-4221-98a4-cffc513c271f",
+   "label": "Base Frames",
+   "group": 0,
+   "position": [
+    1.86101,
+    1.11765,
+    1.7994
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "faa57dae-480f-4f8e-9d95-fcdce4d4e81f"
+   }
+  },
+  {
+   "id": "7deaeb30-8fe7-498b-92d1-4ac5d9c91ad6",
+   "label": "Worktable",
+   "group": 1,
+   "position": [
+    2.50651,
+    6.78439,
+    1.35468
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "9be7fda5-39bc-4a61-85bd-535f0e974a77"
+   }
+  },
+  {
+   "id": "707d83a4-2d9f-432f-a343-0c937dbd9b55",
+   "label": "CNC_Enclosure_Ventilation",
+   "group": 1,
+   "position": [
+    -0.43115,
+    4.5506,
+    -1.92957
+   ],
+   "normal": [
+    0.4164,
+    0.0,
+    -0.9092
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "00d68aeb-6cbe-480f-9104-ddbd964aca86"
+   }
+  },
+  {
+   "id": "8b2d30b5-802e-4248-814c-2293c7470928",
+   "label": "Control box",
+   "group": 2,
+   "position": [
+    0.52837,
+    10.91563,
+    -0.79139
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "332a0e03-77ac-4cdc-9b92-605048f4d97a"
+   }
+  },
+  {
+   "id": "c1836cee-ac32-4531-988b-3094e0955daa",
+   "label": "Power unit",
+   "group": 2,
+   "position": [
+    -3.81442,
+    7.46493,
+    4.87465
+   ],
+   "normal": [
+    0.0,
+    1.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "f7ada3e4-7722-41a8-a9ed-847a7fc150ec"
+   }
+  },
+  {
+   "id": "5aed8c99-7638-40c3-bfdf-7d40f3f57b57",
+   "label": "Z - Axis",
+   "group": 2,
+   "position": [
+    0.24487,
+    13.60782,
+    2.99719
+   ],
+   "normal": [
+    0.5605,
+    0.7715,
+    0.3011
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "75ed1e8e-a075-4ad1-86d3-3406dd765f45"
+   }
+  },
+  {
+   "id": "cf004744-1a4b-4b43-ae63-a0d9a71bcaf2",
+   "label": "Wheel",
+   "group": 2,
+   "position": [
+    0.6784,
+    10.95554,
+    1.58461
+   ],
+   "normal": [
+    1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "54c50a63-a906-47bc-8241-75efcb301e7a"
+   }
+  },
+  {
+   "id": "a8288efc-6e0b-4f89-8759-70860f24080d",
+   "label": "Spindle",
+   "group": 2,
+   "position": [
+    -0.36327,
+    9.56394,
+    1.24698
+   ],
+   "normal": [
+    0.9535,
+    -0.0842,
+    -0.2893
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "6f111a18-1663-484e-b52f-d6da77141766"
+   }
+  },
+  {
+   "id": "cdb2d4b1-9336-40e9-aa8c-268befdb4420",
+   "label": "Control console",
+   "group": 3,
+   "position": [
+    8.88643,
+    5.84829,
+    -5.76535
+   ],
+   "normal": [
+    0.6894,
+    0.2224,
+    0.6894
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "9448ed48-4163-4bc7-a0e3-7ea15c535546"
+   }
+  },
+  {
+   "id": "640e4876-e353-4c91-adbd-805b0c82e1b5",
+   "label": "Support bar",
+   "group": 3,
+   "position": [
+    3.64655,
+    1.1911,
+    -1.7903
+   ],
+   "normal": [
+    0.7071,
+    0.0,
+    0.7071
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "5e79cb6e-fd0c-458b-bb9f-1eaf0e341615"
+   }
+  },
+  {
+   "id": "a19efeb9-0791-4107-a71b-6f7eff88ecde",
+   "label": "Power connection cable",
+   "group": 3,
+   "position": [
+    6.16972,
+    2.12843,
+    -5.43892
+   ],
+   "normal": [
+    0.3764,
+    0.4318,
+    0.8197
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "7c6696c8-49cc-4b6d-b57b-e26ba4c5bec6"
+   }
+  }
+ ]
+}

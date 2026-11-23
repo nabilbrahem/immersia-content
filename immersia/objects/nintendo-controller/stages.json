@@ -1,0 +1,339 @@
+{
+ "source": "Nintendo Controller.json",
+ "groups": [
+  "SynodeGroup_0",
+  "SynodeGroup_1",
+  "SynodeGroup_2",
+  "SynodeGroup_3",
+  "SynodeGroup_4",
+  "SynodeGroup_5"
+ ],
+ "mainStage": "9d0c747f-3780-4cfc-a155-138f5a98917a",
+ "stages": [
+  {
+   "uuid": "9d0c747f-3780-4cfc-a155-138f5a98917a",
+   "name": "Stage 1",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "uuid": "d280d755-9298-4880-8171-052ec085f056",
+   "name": "Stage 2",
+   "offsets": [
+    -0.1313,
+    -0.1145,
+    0.1341,
+    -0.1353,
+    -0.1207,
+    0.1221,
+    0.0,
+    0.0,
+    -0.4668,
+    0.0,
+    0.0,
+    0.4413,
+    0.0,
+    0.0,
+    -0.5794,
+    -0.1635,
+    0.0633,
+    0.037
+   ],
+   "rotations": [
+    -0.2219,
+    0.1552,
+    0.0358,
+    0.962,
+    -0.2219,
+    0.1552,
+    0.0358,
+    0.962,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    -0.2219,
+    0.1552,
+    0.0358,
+    0.962
+   ],
+   "scales": [
+    1.0,
+    1.0494,
+    0.9698,
+    1.0,
+    1.0494,
+    0.9698,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0494,
+    0.9698
+   ],
+   "visible": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    true
+   ]
+  }
+ ],
+ "hotspots": [
+  {
+   "id": "feffcab2-03c2-4984-a1d3-33f0367e951d",
+   "label": "Mainboard",
+   "group": -1,
+   "position": [
+    0.015058815271072293,
+    0.2493677447233813,
+    -0.017265050230753365
+   ],
+   "normal": null,
+   "action": {
+    "type": "stage",
+    "stageUuid": "d280d755-9298-4880-8171-052ec085f056"
+   }
+  },
+  {
+   "id": "60071589-cc15-4722-bd01-84b230a0d5cf",
+   "label": "Outer shell",
+   "group": 3,
+   "position": [
+    -0.01682,
+    0.25586,
+    0.09101
+   ],
+   "normal": [
+    -0.0277,
+    -0.0267,
+    0.9993
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "b999a9e3-4df2-4576-8cb7-c5d4b527017e"
+   }
+  },
+  {
+   "id": "303806d0-bae4-4edc-9502-7dd2dc755e13",
+   "label": "Cable Connection",
+   "group": 5,
+   "position": [
+    0.09538,
+    0.1741,
+    0.02371
+   ],
+   "normal": [
+    0.2549,
+    -0.139,
+    0.9569
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "4922bc0f-fbec-4126-8da5-b4045c224b83"
+   }
+  },
+  {
+   "id": "ef770665-fd34-42fd-8aea-0442f63461f0",
+   "label": "D-Pad Contact Area",
+   "group": 0,
+   "position": [
+    -0.24407,
+    0.19127,
+    0.10456
+   ],
+   "normal": [
+    -0.0127,
+    -0.08,
+    0.9967
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "387420da-3494-4a82-a03d-8f6b20815c5d"
+   }
+  },
+  {
+   "id": "4ae28069-f25a-4c7e-91be-77b91578b3bc",
+   "label": "Button Contact Area",
+   "group": 0,
+   "position": [
+    0.25121,
+    0.19238,
+    0.06372
+   ],
+   "normal": [
+    0.0054,
+    0.0028,
+    1.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "3741b0f5-124e-4d70-816f-b54da66708f3"
+   }
+  },
+  {
+   "id": "78aa3782-7ffc-4230-8bbc-fb7961e3f151",
+   "label": "Main PCB",
+   "group": 0,
+   "position": [
+    0.00492,
+    0.27909,
+    0.03633
+   ],
+   "normal": [
+    0.9927,
+    -0.1076,
+    0.0537
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "f729f6bf-1678-4f35-ba0d-46e1a0a08f8b"
+   }
+  },
+  {
+   "id": "5070de77-b62d-46a1-b610-430b999cd83a",
+   "label": "Select/Start Buttons",
+   "group": 0,
+   "position": [
+    -0.03805,
+    0.16432,
+    0.06168
+   ],
+   "normal": [
+    0.0378,
+    -0.0274,
+    0.9989
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "87aa1d11-eb34-46f5-bb6d-ab3535d49730"
+   }
+  },
+  {
+   "id": "d54113b0-7d12-411f-9fa1-d508a0980c9b",
+   "label": "Left Shoulder Button",
+   "group": 1,
+   "position": [
+    -0.2616,
+    0.37854,
+    0.08317
+   ],
+   "normal": [
+    0.0093,
+    -0.0315,
+    0.9995
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "d4315559-ef0e-402d-9646-c7726044e461"
+   }
+  },
+  {
+   "id": "8355d823-80c9-487f-ab4a-60623e033e11",
+   "label": "Right Shoulder Button",
+   "group": 1,
+   "position": [
+    0.27242,
+    0.3796,
+    0.08273
+   ],
+   "normal": [
+    -0.0051,
+    0.0049,
+    1.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "d4315559-ef0e-402d-9646-c7726044e461"
+   }
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "enterprise": "immersia",
+  "kind": "object",
+  "id": "sonnenwagen",
+  "version": "1.0.0",
+  "name": "Sonnenwagen",
+  "files": [
+    {
+      "path": "model.glb",
+      "role": "model",
+      "size": 51934212,
+      "sha256": "b7d918d0b20f08c264b34c90bcf3d50fd5047e9fc6cf9f17d248904581536254"
+    },
+    {
+      "path": "synode.json",
+      "role": "data",
+      "size": 382931,
+      "sha256": "0ffbde07afccead8dcf40d91138e086d5ed5b26bd69e62a68de2b2b071fc5d63"
+    },
+    {
+      "path": "stages.json",
+      "role": "data",
+      "size": 24475,
+      "sha256": "d9a03689140f2494f6759dc68a2433ba1da368e24677b5f814e18af144464fea"
+    }
+  ]
+}

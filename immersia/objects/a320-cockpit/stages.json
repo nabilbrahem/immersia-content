@@ -1,0 +1,563 @@
+{
+ "source": "A320 Cockpit.json",
+ "groups": [
+  "SynodeGroup_0"
+ ],
+ "mainStage": "51b504e6-a845-4d4d-a9f6-912ec653f1ca",
+ "stages": [
+  {
+   "uuid": "51b504e6-a845-4d4d-a9f6-912ec653f1ca",
+   "name": "Stage 1",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "6423e1ff-a23c-41ba-91d3-cd77178b62d9",
+   "name": "Stage 2",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "378364ea-d4cd-43a6-980b-d25918af8d4f",
+   "name": "Stage 3",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "71806a51-92b0-43c2-94d8-f638c408c461",
+   "name": "Stage 4",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  },
+  {
+   "uuid": "2633e413-7ea8-48ee-929d-994404e19b0f",
+   "name": "Stage 5",
+   "offsets": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "scales": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "visible": [
+    true
+   ]
+  }
+ ],
+ "hotspots": [
+  {
+   "id": "b11d0f91-7458-48a7-a90a-ad789354c963",
+   "label": "Enter Cockpit",
+   "group": 0,
+   "position": [
+    -0.22886,
+    1.18917,
+    0.50828
+   ],
+   "normal": [
+    -0.7551,
+    0.5345,
+    -0.3796
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "6423e1ff-a23c-41ba-91d3-cd77178b62d9"
+   }
+  },
+  {
+   "id": "3b3bd9b0-e543-40d3-bc4e-038543c517cc",
+   "label": "Aircraft Wing",
+   "group": 0,
+   "position": [
+    2.57068,
+    1.04075,
+    4.55645
+   ],
+   "normal": [
+    -0.1088,
+    0.9929,
+    0.0485
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "2d000969-80d0-4e86-8f75-a7d59419cc44"
+   }
+  },
+  {
+   "id": "2726c267-7f20-43af-99bf-5d1032a3d692",
+   "label": "Jet engine",
+   "group": 0,
+   "position": [
+    -1.2744,
+    0.43792,
+    3.03318
+   ],
+   "normal": [
+    0.6095,
+    0.6241,
+    -0.489
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   }
+  },
+  {
+   "id": "6ea30d15-d9b5-43a4-9d7d-18b622150dfa",
+   "label": "Landing gear",
+   "group": 0,
+   "position": [
+    -0.01796,
+    0.2889,
+    1.27484
+   ],
+   "normal": [
+    -0.9666,
+    0.0022,
+    -0.2561
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "71806a51-92b0-43c2-94d8-f638c408c461"
+   }
+  },
+  {
+   "id": "8635d2f4-88e5-440d-997c-720ee12ee2eb",
+   "label": "Cabin",
+   "group": 0,
+   "position": [
+    -0.4406,
+    1.24773,
+    3.03731
+   ],
+   "normal": [
+    -0.9301,
+    0.3673,
+    0.0005
+   ],
+   "action": {
+    "type": "stage",
+    "stageUuid": "378364ea-d4cd-43a6-980b-d25918af8d4f"
+   }
+  },
+  {
+   "id": "a5c677ff-dc43-47f3-a6da-2a7b127fa3b1",
+   "label": "ECAM Display",
+   "group": 0,
+   "position": [
+    0.00248,
+    1.10605,
+    0.43041
+   ],
+   "normal": [
+    0.0,
+    0.2729,
+    0.962
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "42dc3b41-94d4-4e99-94b9-14acdd419f0d"
+   }
+  },
+  {
+   "id": "7e934ec4-27b7-47a5-a6c2-f122a49ccba9",
+   "label": "Thrust Levers",
+   "group": 0,
+   "position": [
+    -0.00262,
+    1.03957,
+    0.53647
+   ],
+   "normal": [
+    0.0,
+    0.874,
+    0.4859
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "d59eeadb-0d37-4a5d-a41e-ef8cbb3779fe"
+   }
+  },
+  {
+   "id": "850ffcf8-bf33-400e-a271-047afb14a1fa",
+   "label": "Steering Tiller",
+   "group": 0,
+   "position": [
+    -0.24426,
+    1.05876,
+    0.5168
+   ],
+   "normal": [
+    0.6326,
+    0.3847,
+    0.6722
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "a7046e63-0808-42e0-ac13-a6f4baba8194"
+   }
+  },
+  {
+   "id": "593e7637-cd7d-41bb-8d94-7f4dd17a36ca",
+   "label": "Rudder Pedals",
+   "group": 0,
+   "position": [
+    -0.12679,
+    1.0131,
+    0.39401
+   ],
+   "normal": [
+    0.0,
+    0.4265,
+    0.9045
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "fe9debb5-90be-490e-9872-cbbba5ed5c44"
+   }
+  },
+  {
+   "id": "a5b8a9d4-ffa8-4644-821f-4f31a38e78b7",
+   "label": "Aircraft passenger cabin",
+   "group": 0,
+   "position": [
+    0.05943,
+    1.12379,
+    2.11374
+   ],
+   "normal": [
+    -0.0058,
+    0.1952,
+    -0.9807
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "cfdf8b80-df4a-4a2e-a1c5-4a85e1f513f9"
+   }
+  },
+  {
+   "id": "44cc7ffe-d984-4fbd-8c02-5c8ca955bb96",
+   "label": "Oleo Strut",
+   "group": 0,
+   "position": [
+    -0.01953,
+    0.27727,
+    1.2761
+   ],
+   "normal": [
+    -0.9849,
+    0.0032,
+    -0.1733
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "fa208959-d51c-458b-a5d7-7cb8ec353686"
+   }
+  },
+  {
+   "id": "98c6d812-541d-402d-a690-401b13454e18",
+   "label": "Torque Link",
+   "group": 0,
+   "position": [
+    -0.00704,
+    0.46155,
+    1.27225
+   ],
+   "normal": [
+    -1.0,
+    0.0,
+    0.0
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "9e56bb9e-0634-4418-badf-bd0ac8b8a334"
+   }
+  },
+  {
+   "id": "ce608323-cfca-43b5-8b72-795cc81022af",
+   "label": "Nose Landing Gear Wheel",
+   "group": 0,
+   "position": [
+    -0.09253,
+    0.14572,
+    1.28351
+   ],
+   "normal": [
+    -0.9982,
+    -0.0078,
+    0.0595
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "e9039821-b0b6-4d88-bd44-b371ee79554b"
+   }
+  },
+  {
+   "id": "98d15e58-52c9-468b-af6b-382ec0677883",
+   "label": "Drag Brace",
+   "group": 0,
+   "position": [
+    -0.0648,
+    0.65642,
+    1.08523
+   ],
+   "normal": [
+    -0.9551,
+    -0.2481,
+    0.1618
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "69833255-1e89-4713-a8b1-3f8b6ac5a668"
+   }
+  },
+  {
+   "id": "18e54564-89d7-4d09-8934-3d58ea2fd3fb",
+   "label": "Fan Spinner",
+   "group": 0,
+   "position": [
+    2.05812,
+    0.03028,
+    0.05288
+   ],
+   "normal": [
+    0.5144,
+    0.4225,
+    0.7462
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "2629e9f8-366a-41b1-aa67-34291a1aae1e"
+   }
+  },
+  {
+   "id": "3cc40749-674b-48b8-92ef-8991276a1891",
+   "label": "Fan Blades",
+   "group": 0,
+   "position": [
+    1.76755,
+    0.08889,
+    -0.42295
+   ],
+   "normal": [
+    0.7376,
+    -0.6411,
+    0.212
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "f23fe8f4-57eb-4255-b6fa-b00a9c119483"
+   }
+  },
+  {
+   "id": "25d716ca-16ac-4cdd-9919-08705e212050",
+   "label": "Fan Case",
+   "group": 0,
+   "position": [
+    1.9836,
+    0.4825,
+    0.42208
+   ],
+   "normal": [
+    0.2248,
+    0.733,
+    0.642
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "06d3eb73-83a7-4df9-9fac-bc598dac0083"
+   }
+  },
+  {
+   "id": "6073401b-74e1-4ff7-bdcb-752a77c6a2a5",
+   "label": "Piping & Harness",
+   "group": 0,
+   "position": [
+    1.47189,
+    0.74069,
+    0.00037
+   ],
+   "normal": [
+    0.6559,
+    0.7548,
+    0.0004
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "4f369933-06fa-4e52-b7c7-7104ea2a97ba"
+   }
+  },
+  {
+   "id": "190379e8-ca12-4702-98ad-03924c9ff039",
+   "label": "Bleed Air System",
+   "group": 0,
+   "position": [
+    0.83123,
+    0.04573,
+    0.63232
+   ],
+   "normal": [
+    0.0,
+    0.5003,
+    0.8658
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "d41597f5-8ad4-4f61-91c0-9945f66e30f9"
+   }
+  },
+  {
+   "id": "2febd44b-7dd1-40ba-a8b5-1dd6aaa5608a",
+   "label": "Structural Support Frame",
+   "group": 0,
+   "position": [
+    0.70401,
+    0.61199,
+    0.28074
+   ],
+   "normal": [
+    0.0,
+    -0.0664,
+    0.9978
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "b6182759-a61b-43e2-bd56-c7faa9710cdf"
+   }
+  },
+  {
+   "id": "2caf6273-7a10-4200-b2c0-514345eea26f",
+   "label": "Exhaust Nozzle",
+   "group": 0,
+   "position": [
+    -1.3255,
+    0.33233,
+    0.48469
+   ],
+   "normal": [
+    0.2515,
+    0.5469,
+    0.7985
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "4483496b-316e-46a8-9583-5eef3a4d706e"
+   }
+  },
+  {
+   "id": "765c5215-a352-434e-ae63-50b2c0dcd11f",
+   "label": "Tail Cone",
+   "group": 0,
+   "position": [
+    -1.74463,
+    0.00164,
+    0.0146
+   ],
+   "normal": [
+    -1.0,
+    0.0007,
+    0.006
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "956a9889-57e5-4e3b-813f-b100da5c12ce"
+   }
+  },
+  {
+   "id": "9b3953a3-9889-4b33-b79a-39503a4c768f",
+   "label": "Low Pressure Turbine",
+   "group": 0,
+   "position": [
+    -1.70342,
+    -0.33883,
+    0.29161
+   ],
+   "normal": [
+    -0.5291,
+    0.5544,
+    0.6424
+   ],
+   "action": {
+    "type": "callout",
+    "calloutUuid": "ffba8650-b4be-4307-bc39-6223041d8903"
+   }
+  }
+ ]
+}
