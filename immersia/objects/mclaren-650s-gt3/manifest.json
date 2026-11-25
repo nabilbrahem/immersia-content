@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "mclaren-650s-gt3",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "name": "McLaren 650S GT3",
   "files": [
     {
       "path": "model.glb",
       "role": "model",
-      "size": 11208620,
-      "sha256": "651f1b9ddb45a9ad8da0e0ec1d622886ad7a6a4b221dcd6c467aa310604300e8"
+      "size": 11209220,
+      "sha256": "999d7cb6189b11dcf80289a3df1f599725843382700d99bd0822b1cbd39e7713"
     },
     {
       "path": "synode.json",

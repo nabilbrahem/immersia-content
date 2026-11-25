@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "motrec",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "name": "Motrec",
   "files": [
     {
       "path": "model.glb",
       "role": "model",
-      "size": 26641432,
-      "sha256": "1860d3cc5dd68ba3c7d0731ff2d0c87d23daf82ef22ba3d66f47f7fc00eeb13f"
+      "size": 26646700,
+      "sha256": "850cc23837b200c230a40877ae1326f1ec7e3f87d0153f889267cb2e104d625f"
     },
     {
       "path": "synode.json",

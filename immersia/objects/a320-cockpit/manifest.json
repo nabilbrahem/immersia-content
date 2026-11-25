@@ -3,14 +3,14 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "a320-cockpit",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "name": "A320 Cockpit",
   "files": [
     {
       "path": "model.glb",
       "role": "model",
-      "size": 26119928,
-      "sha256": "7c9f5ed7bba12b9c91c90b9dec405e8ef47eaae1c5a53bddc365626e37c6154a"
+      "size": 26123268,
+      "sha256": "0f025ee0bba871c34ac8ab30c5c75f4ca7824f443a0189a4d8eb69380b7e2862"
     },
     {
       "path": "synode.json",
