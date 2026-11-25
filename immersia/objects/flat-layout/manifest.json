@@ -3,7 +3,7 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "flat-layout",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "name": "Flat Layout",
   "files": [
     {
@@ -21,8 +21,8 @@
     {
       "path": "stages.json",
       "role": "data",
-      "size": 4867,
-      "sha256": "4cafd4f20ee6456a7a87d32e6d6e9c468a63a005114c4ab16f6edab06e867ed1"
+      "size": 5168,
+      "sha256": "79d9e52f40f8eba83944d8f21b1da003c4839e21ee8cacc85150ce040d0faa22"
     }
   ]
 }

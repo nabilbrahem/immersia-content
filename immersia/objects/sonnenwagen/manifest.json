@@ -3,7 +3,7 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "sonnenwagen",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "name": "Sonnenwagen",
   "files": [
     {
@@ -21,8 +21,8 @@
     {
       "path": "stages.json",
       "role": "data",
-      "size": 24475,
-      "sha256": "d9a03689140f2494f6759dc68a2433ba1da368e24677b5f814e18af144464fea"
+      "size": 24782,
+      "sha256": "ac1c8febbc4269ff2b08644875938f4c5d199f1286b256729a6c4173625a2745"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "nintendo-controller",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "name": "Nintendo Controller",
   "files": [
     {
@@ -21,8 +21,8 @@
     {
       "path": "stages.json",
       "role": "data",
-      "size": 5132,
-      "sha256": "a40d238396dd30eeddd14e29591941714be0401c8bf40eab21daec8f038d2e49"
+      "size": 5250,
+      "sha256": "4e91a3d173bfae9b87a7a10348abc3d0be3075af6ed49e94c624230273390707"
     }
   ]
 }

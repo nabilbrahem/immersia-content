@@ -3,7 +3,7 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "motrec",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "name": "Motrec",
   "files": [
     {
@@ -21,8 +21,8 @@
     {
       "path": "stages.json",
       "role": "data",
-      "size": 730,
-      "sha256": "c114c29df67e072c9dfc25f9dd0efddeee55618399562a3fbab07bf7718ea8d3"
+      "size": 851,
+      "sha256": "8047336eea4179c6cdda8873a305b775522ad43d981f144ad966619c81364733"
     }
   ]
 }

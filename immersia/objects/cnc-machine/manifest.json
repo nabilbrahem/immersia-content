@@ -3,7 +3,7 @@
   "enterprise": "immersia",
   "kind": "object",
   "id": "cnc-machine",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "name": "CNC Machine",
   "files": [
     {
@@ -21,8 +21,8 @@
     {
       "path": "stages.json",
       "role": "data",
-      "size": 7732,
-      "sha256": "ac20976d735be7cf9f7c05289af0d742de750bde67a472030727db768dd120bf"
+      "size": 7974,
+      "sha256": "0acadebd375a9c0db76e3d6fc75b19ed2904880c0d1857ddb8edf8e617fac9d8"
     }
   ]
 }
