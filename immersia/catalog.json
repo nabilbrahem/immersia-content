@@ -13,7 +13,7 @@
     {
       "id": "a320-cockpit",
       "name": "A320 Cockpit",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "manifest": "objects/a320-cockpit/manifest.json"
     },
     {

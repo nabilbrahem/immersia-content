@@ -1,7 +1,8 @@
 {
  "source": "A320 Cockpit.json",
  "groups": [
-  "SynodeGroup_0"
+  "SynodeGroup_0",
+  "SynodeGroup_1"
  ],
  "mainStage": "51b504e6-a845-4d4d-a9f6-912ec653f1ca",
  "stages": [
@@ -11,9 +12,16 @@
    "offsets": [
     0.0,
     0.0,
-    0.0
+    0.0,
+    15.5194,
+    -4.1893,
+    -33.5895
    ],
    "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
     0.0,
     0.0,
     0.0,
@@ -22,10 +30,14 @@
    "scales": [
     1.0,
     1.0,
-    1.0
+    1.0,
+    11.3656,
+    11.3656,
+    11.3656
    ],
    "visible": [
-    true
+    true,
+    false
    ],
    "view": [
     -5.1263,
@@ -39,9 +51,16 @@
    "offsets": [
     0.0,
     0.0,
-    0.0
+    0.0,
+    15.5194,
+    -4.1893,
+    -33.5895
    ],
    "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
     0.0,
     0.0,
     0.0,
@@ -50,10 +69,14 @@
    "scales": [
     1.0,
     1.0,
-    1.0
+    1.0,
+    11.3656,
+    11.3656,
+    11.3656
    ],
    "visible": [
-    true
+    true,
+    false
    ],
    "view": [
     0.0016,
@@ -67,9 +90,16 @@
    "offsets": [
     0.0,
     0.0,
-    0.0
+    0.0,
+    15.5194,
+    -4.1893,
+    -33.5895
    ],
    "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
     0.0,
     0.0,
     0.0,
@@ -78,10 +108,14 @@
    "scales": [
     1.0,
     1.0,
-    1.0
+    1.0,
+    11.3656,
+    11.3656,
+    11.3656
    ],
    "visible": [
-    true
+    true,
+    false
    ],
    "view": [
     0.0011,
@@ -95,9 +129,16 @@
    "offsets": [
     0.0,
     0.0,
-    0.0
+    0.0,
+    15.5194,
+    -4.1893,
+    -33.5895
    ],
    "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
     0.0,
     0.0,
     0.0,
@@ -106,10 +147,14 @@
    "scales": [
     1.0,
     1.0,
-    1.0
+    1.0,
+    11.3656,
+    11.3656,
+    11.3656
    ],
    "visible": [
-    true
+    true,
+    false
    ],
    "view": [
     -1.1214,
@@ -123,9 +168,16 @@
    "offsets": [
     0.0,
     0.0,
-    0.0
+    0.0,
+    15.5194,
+    -4.1893,
+    -33.5895
    ],
    "rotations": [
+    0.0,
+    0.0,
+    0.0,
+    1.0,
     0.0,
     0.0,
     0.0,
@@ -134,9 +186,13 @@
    "scales": [
     1.0,
     1.0,
-    1.0
+    1.0,
+    11.3656,
+    11.3656,
+    11.3656
    ],
    "visible": [
+    false,
     true
    ],
    "view": [
@@ -161,6 +217,10 @@
     0.5345,
     -0.3796
    ],
+   "scope": {
+    "type": "stage",
+    "id": "51b504e6-a845-4d4d-a9f6-912ec653f1ca"
+   },
    "action": {
     "type": "stage",
     "stageUuid": "6423e1ff-a23c-41ba-91d3-cd77178b62d9"
@@ -180,6 +240,10 @@
     0.9929,
     0.0485
    ],
+   "scope": {
+    "type": "stage",
+    "id": "51b504e6-a845-4d4d-a9f6-912ec653f1ca"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "2d000969-80d0-4e86-8f75-a7d59419cc44"
@@ -199,6 +263,10 @@
     0.6241,
     -0.489
    ],
+   "scope": {
+    "type": "stage",
+    "id": "51b504e6-a845-4d4d-a9f6-912ec653f1ca"
+   },
    "action": {
     "type": "stage",
     "stageUuid": "2633e413-7ea8-48ee-929d-994404e19b0f"
@@ -218,6 +286,10 @@
     0.0022,
     -0.2561
    ],
+   "scope": {
+    "type": "stage",
+    "id": "51b504e6-a845-4d4d-a9f6-912ec653f1ca"
+   },
    "action": {
     "type": "stage",
     "stageUuid": "71806a51-92b0-43c2-94d8-f638c408c461"
@@ -237,6 +309,10 @@
     0.3673,
     0.0005
    ],
+   "scope": {
+    "type": "stage",
+    "id": "51b504e6-a845-4d4d-a9f6-912ec653f1ca"
+   },
    "action": {
     "type": "stage",
     "stageUuid": "378364ea-d4cd-43a6-980b-d25918af8d4f"
@@ -256,6 +332,10 @@
     0.2729,
     0.962
    ],
+   "scope": {
+    "type": "stage",
+    "id": "6423e1ff-a23c-41ba-91d3-cd77178b62d9"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "42dc3b41-94d4-4e99-94b9-14acdd419f0d"
@@ -275,6 +355,10 @@
     0.874,
     0.4859
    ],
+   "scope": {
+    "type": "stage",
+    "id": "6423e1ff-a23c-41ba-91d3-cd77178b62d9"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "d59eeadb-0d37-4a5d-a41e-ef8cbb3779fe"
@@ -294,6 +378,10 @@
     0.3847,
     0.6722
    ],
+   "scope": {
+    "type": "stage",
+    "id": "6423e1ff-a23c-41ba-91d3-cd77178b62d9"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "a7046e63-0808-42e0-ac13-a6f4baba8194"
@@ -313,6 +401,10 @@
     0.4265,
     0.9045
    ],
+   "scope": {
+    "type": "stage",
+    "id": "6423e1ff-a23c-41ba-91d3-cd77178b62d9"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "fe9debb5-90be-490e-9872-cbbba5ed5c44"
@@ -332,6 +424,10 @@
     0.1952,
     -0.9807
    ],
+   "scope": {
+    "type": "stage",
+    "id": "378364ea-d4cd-43a6-980b-d25918af8d4f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "cfdf8b80-df4a-4a2e-a1c5-4a85e1f513f9"
@@ -351,6 +447,10 @@
     0.0032,
     -0.1733
    ],
+   "scope": {
+    "type": "stage",
+    "id": "71806a51-92b0-43c2-94d8-f638c408c461"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "fa208959-d51c-458b-a5d7-7cb8ec353686"
@@ -370,6 +470,10 @@
     0.0,
     0.0
    ],
+   "scope": {
+    "type": "stage",
+    "id": "71806a51-92b0-43c2-94d8-f638c408c461"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "9e56bb9e-0634-4418-badf-bd0ac8b8a334"
@@ -389,6 +493,10 @@
     -0.0078,
     0.0595
    ],
+   "scope": {
+    "type": "stage",
+    "id": "71806a51-92b0-43c2-94d8-f638c408c461"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "e9039821-b0b6-4d88-bd44-b371ee79554b"
@@ -408,6 +516,10 @@
     -0.2481,
     0.1618
    ],
+   "scope": {
+    "type": "stage",
+    "id": "71806a51-92b0-43c2-94d8-f638c408c461"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "69833255-1e89-4713-a8b1-3f8b6ac5a668"
@@ -416,17 +528,21 @@
   {
    "id": "18e54564-89d7-4d09-8934-3d58ea2fd3fb",
    "label": "Fan Spinner",
-   "group": 0,
+   "group": 1,
    "position": [
-    2.05812,
-    0.03028,
-    0.05288
+    -1.35492,
+    0.53446,
+    2.97088
    ],
    "normal": [
-    0.5144,
+    0.7462,
     0.4225,
-    0.7462
+    -0.5144
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "2629e9f8-366a-41b1-aa67-34291a1aae1e"
@@ -435,17 +551,21 @@
   {
    "id": "3cc40749-674b-48b8-92ef-8991276a1891",
    "label": "Fan Blades",
-   "group": 0,
+   "group": 1,
    "position": [
-    1.76755,
-    0.08889,
-    -0.42295
+    -1.45009,
+    0.54618,
+    3.02899
    ],
    "normal": [
-    0.7376,
+    0.212,
     -0.6411,
-    0.212
+    -0.7376
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "f23fe8f4-57eb-4255-b6fa-b00a9c119483"
@@ -454,17 +574,21 @@
   {
    "id": "25d716ca-16ac-4cdd-9919-08705e212050",
    "label": "Fan Case",
-   "group": 0,
+   "group": 1,
    "position": [
-    1.9836,
-    0.4825,
-    0.42208
+    -1.28108,
+    0.6249,
+    2.98578
    ],
    "normal": [
-    0.2248,
+    0.642,
     0.733,
-    0.642
+    -0.2248
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "06d3eb73-83a7-4df9-9fac-bc598dac0083"
@@ -473,17 +597,21 @@
   {
    "id": "6073401b-74e1-4ff7-bdcb-752a77c6a2a5",
    "label": "Piping & Harness",
-   "group": 0,
+   "group": 1,
    "position": [
-    1.47189,
-    0.74069,
-    0.00037
+    -1.36543,
+    0.67654,
+    3.08812
    ],
    "normal": [
-    0.6559,
+    0.0004,
     0.7548,
-    0.0004
+    -0.6559
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "4f369933-06fa-4e52-b7c7-7104ea2a97ba"
@@ -492,17 +620,21 @@
   {
    "id": "190379e8-ca12-4702-98ad-03924c9ff039",
    "label": "Bleed Air System",
-   "group": 0,
+   "group": 1,
    "position": [
-    0.83123,
-    0.04573,
-    0.63232
+    -1.23904,
+    0.53755,
+    3.21625
    ],
    "normal": [
-    0.0,
+    0.8658,
     0.5003,
-    0.8658
+    0.0
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "d41597f5-8ad4-4f61-91c0-9945f66e30f9"
@@ -511,17 +643,21 @@
   {
    "id": "2febd44b-7dd1-40ba-a8b5-1dd6aaa5608a",
    "label": "Structural Support Frame",
-   "group": 0,
+   "group": 1,
    "position": [
-    0.70401,
-    0.61199,
-    0.28074
+    -1.30935,
+    0.6508,
+    3.2417
    ],
    "normal": [
-    0.0,
+    0.9978,
     -0.0664,
-    0.9978
+    0.0
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "b6182759-a61b-43e2-bd56-c7faa9710cdf"
@@ -530,17 +666,21 @@
   {
    "id": "2caf6273-7a10-4200-b2c0-514345eea26f",
    "label": "Exhaust Nozzle",
-   "group": 0,
+   "group": 1,
    "position": [
-    -1.3255,
-    0.33233,
-    0.48469
+    -1.26856,
+    0.59487,
+    3.6476
    ],
    "normal": [
-    0.2515,
+    0.7985,
     0.5469,
-    0.7985
+    -0.2515
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "4483496b-316e-46a8-9583-5eef3a4d706e"
@@ -549,17 +689,21 @@
   {
    "id": "765c5215-a352-434e-ae63-50b2c0dcd11f",
    "label": "Tail Cone",
-   "group": 0,
+   "group": 1,
    "position": [
-    -1.74463,
-    0.00164,
-    0.0146
+    -1.36258,
+    0.52873,
+    3.73143
    ],
    "normal": [
-    -1.0,
+    0.006,
     0.0007,
-    0.006
+    1.0
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "956a9889-57e5-4e3b-813f-b100da5c12ce"
@@ -568,17 +712,21 @@
   {
    "id": "9b3953a3-9889-4b33-b79a-39503a4c768f",
    "label": "Low Pressure Turbine",
-   "group": 0,
+   "group": 1,
    "position": [
-    -1.70342,
-    -0.33883,
-    0.29161
+    -1.30718,
+    0.46063,
+    3.72318
    ],
    "normal": [
-    -0.5291,
+    0.6424,
     0.5544,
-    0.6424
+    0.5291
    ],
+   "scope": {
+    "type": "stage",
+    "id": "2633e413-7ea8-48ee-929d-994404e19b0f"
+   },
    "action": {
     "type": "callout",
     "calloutUuid": "ffba8650-b4be-4307-bc39-6223041d8903"
